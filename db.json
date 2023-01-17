@@ -1,21 +1,27 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Chandra",
-        "age": 29,
-        "place": "Visakhapatnam",
-        "batch_name": "WEB-21",
-        "profession": "FSD"
-      },
-      {
-        "id": 1,
-        "name": "Nrupul",
-        "age": 32,
-        "place": "Vijayawada",
-        "batch_name": "WEB-18",
-        "profession": "FSD"
-      }
-    ]
+    "baby-boy": [
+    {
+    "id": 1,
+    "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.27b/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw7f7ae3ed/productimages/1O541810.jpg?sw=800&sh=1000&sfrm=jpg&yocs=4E_4G_",
+    "name": "Baby St.",
+    "price": 14.00,
+    "prevPrice": 18.00,
+    "brand": "carter",
+    "sale": "in-sale",
+    "category": "Baby"
+  }
+  ],
+  "baby-girl":[
+    {
+    "id": 1,
+    "image":"https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.27b/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw7f7ae3ed/productimages/1O541810.jpg?sw=800&sh=1000&sfrm=jpg&yocs=4E_4G_",
+    "name": "Baby St.",
+    "price": 14.00,
+    "prevPrice": 18.00,
+    "brand": "carter",
+    "sale": "in-sale",
+    "category": "Baby"
+  }
+  ]
   }
   
